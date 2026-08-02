@@ -1,0 +1,7 @@
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\ApiProdutosApplication.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\ErroResposta.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\Produto.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\ProdutoController.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\ProdutoNaoEncontradoException.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\ProdutoService.java
+C:\aulas\programacao-avancada-final\04-api-produtos-com-excecoes\src\main\java\br\edu\programacaoavancada\catalogo\TratadorGlobalDeErros.java

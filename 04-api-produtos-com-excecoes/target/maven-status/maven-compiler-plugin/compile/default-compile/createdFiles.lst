@@ -1,0 +1,7 @@
+br\edu\programacaoavancada\catalogo\ProdutoController.class
+br\edu\programacaoavancada\catalogo\TratadorGlobalDeErros.class
+br\edu\programacaoavancada\catalogo\Produto.class
+br\edu\programacaoavancada\catalogo\ProdutoService.class
+br\edu\programacaoavancada\catalogo\ApiProdutosApplication.class
+br\edu\programacaoavancada\catalogo\ErroResposta.class
+br\edu\programacaoavancada\catalogo\ProdutoNaoEncontradoException.class

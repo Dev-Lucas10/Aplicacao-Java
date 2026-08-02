@@ -1,0 +1,4 @@
+br\edu\programacaoavancada\catalogo\Produto.class
+br\edu\programacaoavancada\catalogo\ProdutoController.class
+br\edu\programacaoavancada\catalogo\ProdutoService.class
+br\edu\programacaoavancada\catalogo\ApiProdutosApplication.class
